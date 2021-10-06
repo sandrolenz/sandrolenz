@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**sandrolenz/sandrolenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 💻 IT-Apprentice @ Bühler Group
+- 🇨🇭 Based in Switzerland
+- 🍰 currently 17y/o
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrolenz&show_icons=true&theme=dark&count_private=true&hide=prs,issues&include_all_commits=true)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrolenz&theme=dark&layout=compact) 
+
+---
+
+<p align="left">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=sandrolenz" alt="page views" />
+  </a>
+  </a>
+  <a>
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sandrolenz?color=green&logo=github">
+  </a>
+</p>
