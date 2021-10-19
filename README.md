@@ -2,9 +2,9 @@
 
 ---
 
-- 💻 IT-Apprentice @ Bühler Group
-- 🇨🇭 Based in Switzerland
-- 🍰 currently 17y/o
+- 💻      IT-Apprentice @ Bühler Group
+- 🇨🇭       Switzerland
+- 🍰      17y/o
 
   
 
