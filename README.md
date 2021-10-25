@@ -2,11 +2,15 @@
 
 ---
 
-- 💻      IT-Apprentice @ Bühler Group
-- 🇨🇭       Switzerland
-- 🍰      17y/o
+- 💻 IT-Apprentice @ Bühler Group
+- 🇨🇭 Switzerland
+- 🍰 17y/o
 
-  
+---
+##### Currently working on
+- 📻 BAKOM Amateur radio licence HB3
+- 📗 TBZ M157 Project - Repo: [M157-Telefonbuch](https://github.com/sandrolenz/M157-Telefonbuch)
+---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrolenz&show_icons=true&theme=dark&count_private=true&hide=prs,issues&include_all_commits=true)
 
