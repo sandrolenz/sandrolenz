@@ -7,7 +7,7 @@
 - 🍰 17y/o
 
 ---
-##### Currently working on
+#### Currently working on
 - 📻 BAKOM Amateur radio licence HB3
 - 📗 TBZ M157 Project - Repo: [M157-Telefonbuch](https://github.com/sandrolenz/M157-Telefonbuch)
 ---
