@@ -10,6 +10,7 @@
 #### Currently working on
 - 🧁 TBZ M239 - [muffinfactory](https://github.com/muffinfactory-ch)
 - 🛒 TBZ M133 Online Shop - Repo: [M133-Webshop](https://github.com/sandrolenz/M133-Webshop)
+- 📚 Simple Wordle clone - Repo: [wordle](https://github.com/sandrolenz/wordle)
 - 📻 BAKOM Amateur radio licence HB3
 - 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch)
 
