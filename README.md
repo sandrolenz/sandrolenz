@@ -13,7 +13,7 @@
 - 📚 Simple Wordle clone - Repo: [wordle](https://github.com/sandrolenz/wordle)
 - 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch)
 
-#### Finished projects
+#### Finished stuff
 - 📗 TBZ M157 Project - Repo: [M157-Telefonbuch](https://github.com/sandrolenz/M157-Telefonbuch)
 - 📻 BAKOM Amateur radio licence HB3
 ---
