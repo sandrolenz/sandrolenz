@@ -4,15 +4,14 @@
 
 - 💻 IT-Apprentice @ Bühler Group
 - 🏡 Switzerland
-- 🍰 17y/o
+- 🍰 18y/o
 
 ---
 #### Currently working on
-- 🧁 MUFFINS - [muffinfactory](https://github.com/muffinfactory-ch)
 - 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch)
 <!-- - 📚 Simple Wordle clone - Repo: [wordle](https://github.com/sandrolenz/wordle) -->
 
-#### Finished stuff
+#### Finished things
 - 📗 TBZ M157 Project - Repo: [M157-Telefonbuch](https://github.com/sandrolenz/M157-Telefonbuch)
 - 🛒 TBZ M133 Online Shop - Repo: [M133-Webshop](https://github.com/sandrolenz/M133-Webshop)
 - 📻 BAKOM Amateur radio licence HB3
