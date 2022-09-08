@@ -9,7 +9,7 @@
 ---
 #### Currently working on
 - 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch)
-<!-- - 📚 Simple Wordle clone - Repo: [wordle](https://github.com/sandrolenz/wordle) -->
+- 🧱 Digital Troll Studios - Organization: [Digital Troll Studios](https://github.com/digitaltrollstudios)
 
 #### Finished things
 - 📗 TBZ M157 Project - Repo: [M157-Telefonbuch](https://github.com/sandrolenz/M157-Telefonbuch)
