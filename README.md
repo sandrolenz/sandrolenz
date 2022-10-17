@@ -10,7 +10,7 @@
 #### Currently working on
 - 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch)
 - 🧱 Digital Troll Studios - Organization: [Digital Troll Studios](https://github.com/digitaltrollstudios)
-- 🎮 TBZ M226a - Repo: [M226a-Greenfoot](https://github.com/sandrolenz/M226a-Greenfoot)
+- 🎮 TBZ M226a - Dwarven Gold: [M226a-DwarvenGold](https://github.com/sandrolenz/M226a-DwarvenGold)
 
 #### Finished things
 - 📗 TBZ M157 Project - Repo: [M157-Telefonbuch](https://github.com/sandrolenz/M157-Telefonbuch)
