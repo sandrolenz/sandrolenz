@@ -20,7 +20,7 @@
 ---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrolenz&show_icons=true&theme=dark&count_private=true&hide=prs,issues&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrolenz&theme=dark&layout=compact) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrolenz&theme=dark&layout=compact) -->
 
 ---
 
