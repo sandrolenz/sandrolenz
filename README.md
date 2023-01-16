@@ -19,6 +19,8 @@
 - 📻 BAKOM Amateur radio licence HB3
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,git,java,figma,vscode)]
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrolenz&show_icons=true&theme=dark&count_private=true&hide=prs,issues&include_all_commits=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrolenz&theme=dark&layout=compact) -->
 
