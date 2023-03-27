@@ -8,7 +8,7 @@
 
 ---
 #### Currently working on
-- 
+- 🎈 Fun programming projects - Repo: [fun.sandrolenz.ch](https://github.com/sandrolenz/fun.sandrolenz.ch)
 - 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch)
 - 🧱 Digital Troll Studios - Organization: [Digital Troll Studios](https://github.com/digitaltrollstudios)
 
