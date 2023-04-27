@@ -9,10 +9,10 @@
 ---
 #### Currently working on
 - 🎈 Fun programming projects - Repo: [fun.sandrolenz.ch](https://github.com/sandrolenz/fun.sandrolenz.ch)
-- 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch)
 - 🧱 Digital Troll Studios - Organization: [Digital Troll Studios](https://github.com/digitaltrollstudios)
 
 #### Finished things
+- 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch) (still trying to update with new projects sometimes)
 - 🎮 TBZ M226b - Burger Place: [M226b-BurgerPlace](https://github.com/sandrolenz/M226b-BurgerPlace)
 - 🎮 TBZ M226a - Dwarven Gold: [M226a-DwarvenGold](https://github.com/sandrolenz/M226a-DwarvenGold)
 - 📗 TBZ M157 Project - Repo: [M157-Telefonbuch](https://github.com/sandrolenz/M157-Telefonbuch)
