@@ -4,7 +4,7 @@
 
 - 💻 Junior Network Specialist @ Bühler Group
 - 🏡 Switzerland
-- 🍰 18y/o
+- 🍰 19y/o
 
 ---
 #### Currently working on
