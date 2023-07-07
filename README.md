@@ -2,7 +2,7 @@
 
 ---
 
-- 💻 IT-Apprentice @ Bühler Group
+- 💻 Junior Network Specialist @ Bühler Group
 - 🏡 Switzerland
 - 🍰 18y/o
 
