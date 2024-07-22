@@ -7,7 +7,8 @@
 
 ---
 #### Currently working on
-- 💡 Give me some ideas :D
+- 📝 CCNA Certification
+- 💡 Give me some project ideas :D
 
 #### Finished things
 - 🧱 Digital Troll Studios - Organization: [Digital Troll Studios](https://github.com/digitaltrollstudios)
