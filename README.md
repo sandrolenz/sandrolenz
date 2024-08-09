@@ -8,11 +8,12 @@
 ---
 #### Currently working on
 - 📝 CCNA Certification
+- 🎫 Website v2 - Repo: [website-full-rework](https://github.com/sandrolenz/website-full-rework)
 - 💡 Give me some project ideas :D
 
 #### Finished things
 - 🧱 Digital Troll Studios - Organization: [Digital Troll Studios](https://github.com/digitaltrollstudios)
-- 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch) (still trying to update sometimes)
+- 🎫 Personal website - Repo: [sandrolenz.ch](https://github.com/sandrolenz/sandrolenz.ch)
 - 🎮 TBZ M226b - Burger Place: [M226b-BurgerPlace](https://github.com/sandrolenz/M226b-BurgerPlace)
 - 🛒 TBZ M133 Online Shop - Repo: [M133-Webshop](https://github.com/sandrolenz/M133-Webshop)
 - 📂 and more...
