@@ -7,8 +7,8 @@
 
 ---
 #### Currently working on
-- 📝 CCNA Certification
 - 🎫 Website v2 - Repo: [website-full-rework](https://github.com/sandrolenz/website-full-rework)
+- ✒ Some new thing, idk maybe this will be big one day - [brevityapp.me](https://github.com/brevityapp-me)
 - 💡 Give me some project ideas :D
 
 #### Finished things
@@ -19,11 +19,11 @@
 - 📂 and more...
 ---
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,java) 
-&nbsp;&nbsp; 
-![Tools](https://skillicons.dev/icons?i=git,vscode) 
-&nbsp;&nbsp; 
-![Software](https://skillicons.dev/icons?i=discord,figma)
+![Languages](https://skillicons.dev/icons?i=angular,ts,scss,html,nodejs) 
+&nbsp;&nbsp;&nbsp;&nbsp; 
+![Tools](https://skillicons.dev/icons?i=grafana,ansible,elasticsearch,postman) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Software](https://skillicons.dev/icons?i=windows,vscode,github,figma)
 
 ---
 
